@@ -32,4 +32,3 @@ class Lecturer (Mentor):
 
 class Reviewer (Mentor):
     pass
-
